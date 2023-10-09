@@ -1,0 +1,1 @@
+python shortGuidLinux.py 8 | xclip -sel clip
